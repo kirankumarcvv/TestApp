@@ -1,0 +1,7 @@
+Git advanced commands 
+
+git stash
+git rebase
+git tag
+git alias
+git bisect and blame
